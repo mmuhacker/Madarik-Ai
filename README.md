@@ -1,6 +1,10 @@
-<div dir="rtl" align="right">
+<div dir="rtl" align="center">
 
 <h1 align="center">مدارك Ai | Madarik AI</h1>
+
+</div>
+
+<div dir="rtl" align="right">
 
 <p align="center">
 تطبيق أندرويد متعدد اللغات: أخبار، محادثة ذكية، توليد صور، وفحص أمني.
