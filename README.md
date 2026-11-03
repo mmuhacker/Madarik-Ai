@@ -22,8 +22,8 @@
 - [التحميل والتثبيت](https://github.com/mmuhacker/Madarik-Ai/blob/main/README.md#-%D8%A7%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%88%D8%A7%D9%84%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA)
 - [المتطلبات](https://github.com/mmuhacker/Madarik-Ai/blob/main/README.md#-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA)
 - [التحديثات](https://github.com/mmuhacker/Madarik-Ai/blob/main/README.md#-%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA)
-- [الترخيص](#)
-- [الإبلاغعن مشكلة](https://github.com/mmuhacker/Madarik-Ai/blob/main/README.md#-%D8%A7%D9%84%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5)
+- [الترخيص](https://github.com/mmuhacker/Madarik-Ai/blob/main/README.md#-%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA)
+- [الإبلاغ عن مشكلة](https://github.com/mmuhacker/Madarik-Ai/blob/main/README.md#-%D8%A7%D9%84%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5)
 - [التواصل](https://github.com/mmuhacker/Madarik-Ai/blob/main/README.md#-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84)
 
 ---
