@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="../../releases/latest"><b>⬇️ تحميل أحدث إصدار</b></a>
+<a href="https://github.com/mmuhacker/Madarik-Ai/releases/download/Mi/MadarikAi.apk"><b>⬇️ تحميل أحدث إصدار</b></a>
 </p>
 
 ---
