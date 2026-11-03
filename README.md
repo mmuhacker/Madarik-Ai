@@ -1,6 +1,6 @@
 <div dir="rtl" align="center">
 
-<h1 align="center">مدارك Ai | Madarik AI</h1>
+<h1 align="center">مدارك Ai <br> Madarik AI</h1>
 
 </div>
 
